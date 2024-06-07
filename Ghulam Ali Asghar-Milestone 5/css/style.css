@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+* {
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hero-bg{
+    background-image: url(../Images/3d-abstract-space-background-with-wireframe-landscape\ 1.svg);
+    height: 100%;
+}
